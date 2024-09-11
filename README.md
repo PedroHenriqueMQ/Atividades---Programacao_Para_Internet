@@ -1,1 +1,4 @@
-# Atividades---Programacao_Para_Internet
+# Atividades - Programação Para Internet
+
+Este repositório é destinado para as atividades da cadeira de Programação para Internet.
+
